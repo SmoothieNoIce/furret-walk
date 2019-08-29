@@ -3,6 +3,7 @@
 
 ## About
 Furret is a pokemon belonging to Nintendo & The Pokémon Company and the meme was created by Narpy(@narpu).
+Background Music is "Accumula Town" that created by Nindendo
 
 ## License
 This project is licensed under the MIT License
