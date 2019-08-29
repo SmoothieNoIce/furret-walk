@@ -1,3 +1,7 @@
 # furret-walk
 
-furret walc around the vue.js 
+## About
+Furret is a pokemon belonging to Nintendo & The Pokémon Company and the meme was created by Narpy(@narpu).
+
+
+
