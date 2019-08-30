@@ -4,7 +4,7 @@
       <img id="img-furret"  draggable="true" src="./assets/furret.gif" />
     </div>
     <div id="div-function">
-      <p style="margin-left: 20px;" class="mdc-theme--primary" type="button" id="btn-furret">he walk uwu</p>
+      <p style="margin-left: 20px;" class="mdc-theme--primary" type="button" id="btn-furret">he walcc uwu</p>
       <button style="margin-left: 20px;" class="mdc-button mdc-theme--primary" type="button" id="btn-theme" v-on:click="changeBackground()">Background</button>
       <button style="margin-left: 20px;" class="mdc-button mdc-theme--primary" type="button" id="btn-github" v-on:click="goToGithub()">Github</button>
       <button style="margin-left: 20px;" class="mdc-button mdc-theme--primary" type="button" id="btn-music" v-on:click="stopMusic()">Enable music</button>
